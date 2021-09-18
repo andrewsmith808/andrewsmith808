@@ -4,6 +4,6 @@ My main interest lies in creating tools and technology for artistic expression. 
 
 I'm currently learning computer graphics fundamentals and sharpening my programming fundamentals as well.
 
-I am aslo looking for work as well!
+I am aslo looking for work!
 
 You can reach me via email: andrewsmith.code@gmail.com
